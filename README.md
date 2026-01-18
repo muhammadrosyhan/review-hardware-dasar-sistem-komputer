@@ -1,4 +1,4 @@
-# Review Software dan Hardware
+# Review Hardware
 
 Mata Kuliah : Dasar Sistem Komputer  
 Nama        : Muhammad Rosyhan Anwar  
